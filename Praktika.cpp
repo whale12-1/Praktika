@@ -3,7 +3,7 @@
 /***************************************************************************
 * Project Type: win32_console_Application                                  *
 * Project Name: C:\Users\Lenovo\source\repos\Praktika\Praktika.cpp         *
-* File Name: ProgLab2 (1).cpp                                              *
+* File Name: Practica.cpp                                                  *
 * Language: C++, Microsoft  Visual Studio 2026                             *
 * Programmers: Горбунов Родион Вячеславович                                *
 * Modified by:                                                             *
